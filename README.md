@@ -1,16 +1,29 @@
-## Hi there 👋
+这个作业属于哪个课程	https://edu.cnblogs.com/campus/gdgy/Class34Grade23ComputerScience/
+这个作业要求在哪里	https://edu.cnblogs.com/campus/gdgy/Class34Grade23ComputerScience/homework/13478
+这个作业的目标	<创建相关账号并预先了解本课程要学习的内容>
+正文
+介绍：
 
-<!--
-**Gerdiber/Gerdiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+作为广工的一个计算机学院学生，我当初选择计算机是想要能学有所成，成为能够靠自己开发程序来解决自己问题以及需求的人．
+​ 但等真正进入后，又发现远没有自己想象的简单，需要加倍努力提升自我达成目标．
 
-Here are some ideas to get you started:
+兴趣爱好方面个人喜好日常听各类音乐放松，喜欢安静无扰的环境，令人安心 (￣ ▽ ￣ )
+教材疑问：
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+软件工程与纯粹的编程（Coding）最根本的区别是什么？ 是仅仅多了文档和流程，还是思维模式上有本质的不同？
+
+“需求分析”和“需求管理”的核心活动究竟是什么？
+
+软件架构设计时，如何在各种质量属性（如性能、安全性、可扩展性、可维护性）之间做出权衡？
+
+我们如何客观地衡量一个软件项目的“健康度”和“进度”？
+
+AI辅助编程（如GitHub Copilot）和低代码/无代码平台的兴起，是否会从根本上改变软件工程的角色和流程？
+
+想收获：
+
+对软件开发流程的认识
+
+对项目工程管理方面的认识
+
+与他人共同开发的体验
